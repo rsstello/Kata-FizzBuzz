@@ -43,7 +43,22 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzFullVerification">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata-FizzBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FizzzBuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FizzzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="FizzzBuzz.FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzzTest.testFizzBuzzFullVerification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata-FizzBuzz" />
       <extension name="coverage">
@@ -55,22 +70,6 @@
       <option name="PACKAGE_NAME" value="FizzzBuzz" />
       <option name="MAIN_CLASS_NAME" value="FizzzBuzz.FizzBuzzTest" />
       <option name="METHOD_NAME" value="testFizzBuzzFullVerification" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzzTest.testFizzBuzzNoChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata-FizzBuzz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FizzzBuzz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="FizzzBuzz" />
-      <option name="MAIN_CLASS_NAME" value="FizzzBuzz.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testFizzBuzzNoChange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzFullVerification" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyFizzBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyFizz" />
-        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzNoChange" />
       </list>
     </recent_temporary>
   </component>
