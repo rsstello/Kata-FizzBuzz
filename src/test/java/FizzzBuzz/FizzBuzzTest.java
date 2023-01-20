@@ -15,4 +15,9 @@ public class FizzBuzzTest {
         assertThat(FizzBuzz.convert(2)).isEqualTo("2");
     }
 
+    @Test
+    public void testFizzBuzzReplyFizz() {
+        assertThat(FizzBuzz.convert(3)).isEqualTo("Fizz");
+    }
+
 }
