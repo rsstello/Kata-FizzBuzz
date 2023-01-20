@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Test 1 red" />
+    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Test 2 green" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +131,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674221691551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Test 1 green">
+      <created>1674221853966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674221853966</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test 2 red">
+      <created>1674221930657</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674221930657</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test 2 green">
+      <created>1674222008900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674222008900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +169,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="Test 1 red" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 1 red" />
+    <MESSAGE value="Test 1 green" />
+    <MESSAGE value="Test 2 red" />
+    <MESSAGE value="Test 2 green" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 2 green" />
   </component>
 </project>
