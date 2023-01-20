@@ -29,4 +29,11 @@ public class FizzBuzzTest {
     public void testFizzBuzzReplyFizzBuzz() {
         assertThat(FizzBuzz.convert(15)).isEqualTo("FizzBuzz");
     }
+
+    @Test
+    public void testFizzBuzzFullVerification() {
+        for (int i = 1; i <= 100; i++) {
+            System.out.println(FizzBuzz.convert(i));
+        }
+    }
 }

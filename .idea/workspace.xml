@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Test FizzBuzz green">
-      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzz.java" afterDir="false" />
+    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Test FizzBuzz refactor">
+      <change beforePath="$PROJECT_DIR$/src/test/java/FizzzBuzz/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzzBuzz/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +43,8 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzReplyFizzBuzz">
-    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzFullVerification">
+    <configuration name="FizzBuzzTest.testFizzBuzzFullVerification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata-FizzBuzz" />
       <extension name="coverage">
         <pattern>
@@ -54,7 +54,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="FizzzBuzz" />
       <option name="MAIN_CLASS_NAME" value="FizzzBuzz.FizzBuzzTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testFizzBuzzFullVerification" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzFullVerification" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyFizzBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyFizz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzNoChange" />
-        <item itemvalue="JUnit.FizzBuzzTest" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674222999864</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Test FizzBuzz refactor">
+      <created>1674223065313</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674223065313</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +305,7 @@
     <MESSAGE value="Test Buzz refactor" />
     <MESSAGE value="Test FizzBuzz red" />
     <MESSAGE value="Test FizzBuzz green" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test FizzBuzz green" />
+    <MESSAGE value="Test FizzBuzz refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test FizzBuzz refactor" />
   </component>
 </project>
