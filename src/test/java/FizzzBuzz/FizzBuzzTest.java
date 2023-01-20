@@ -20,4 +20,8 @@ public class FizzBuzzTest {
         assertThat(FizzBuzz.convert(3)).isEqualTo("Fizz");
     }
 
+    @Test
+    public void testFizzBuzzReplyBuzz() {
+        assertThat(FizzBuzz.convert(5)).isEqualTo("Buzz");
+    }
 }
