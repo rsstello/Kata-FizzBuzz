@@ -1,15 +1,19 @@
 package FizzzBuzz;
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import FizzBuzz.FizzBuzz;
+import org.junit.Test;
+import static org.assertj.core.api.Assertions.assertThat;
+
+
 public class FizzBuzzTest {
 
 
 
     @Test
-    void testFizzBuzzConverterNoChange () {
+    void testFizzBuzzNoChange() {
 
-        final String esperado = "1";
-        final String obtido = fizzBuzz.convert(1);
-        assertEquals(esperado, obtido);
+        assertThat(FizzBuzz.convert(1)).isEqualTo("1");
+
     }
+
+
 }

@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FizzzBuzz/FizzBuzzTest.java" afterDir="false" />
+    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Test 1 red">
+      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FizzzBuzz/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzzBuzz/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,7 +47,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="FizzBuzzTest.testFizzBuzzConverterNoChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest.testFizzBuzzNoChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata-FizzBuzz" />
       <extension name="coverage">
         <pattern>
@@ -53,7 +57,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="FizzzBuzz" />
       <option name="MAIN_CLASS_NAME" value="FizzzBuzz.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testFizzBuzzConverterNoChange" />
+      <option name="METHOD_NAME" value="testFizzBuzzNoChange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,7 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterNoChange" />
+        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzNoChange" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674217877599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test 1 red">
+      <created>1674219203664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674219203664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Test 1 red" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 1 red" />
   </component>
 </project>
