@@ -43,7 +43,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzReplyBuzz">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzReplyFizzBuzz">
     <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata-FizzBuzz" />
       <extension name="coverage">
@@ -107,8 +107,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FizzBuzzTest.testFizzBuzzReplyFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata-FizzBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FizzzBuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FizzzBuzz" />
+      <option name="MAIN_CLASS_NAME" value="FizzzBuzz.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizzBuzzReplyFizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyFizzBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzReplyFizz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzNoChange" />
