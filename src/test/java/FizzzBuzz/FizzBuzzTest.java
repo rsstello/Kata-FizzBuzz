@@ -12,6 +12,7 @@ public class FizzBuzzTest {
     public void testFizzBuzzNoChange() {
 
         assertThat(FizzBuzz.convert(1)).isEqualTo("1");
+        assertThat(FizzBuzz.convert(2)).isEqualTo("2");
     }
 
 }
