@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Test Fizz green">
+    <list default="true" id="fdccc0ac-7f9b-4b3f-a63a-8ec74776fe1f" name="Changes" comment="Test Buzz green">
       <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +209,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674222317788</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Test Fizz refactor">
+      <created>1674222424279</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674222424279</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Test Buzz red">
+      <created>1674222507214</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674222507214</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Test Buzz green">
+      <created>1674222699103</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674222699103</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +253,9 @@
     <MESSAGE value="Test 2 (and 1) refactor" />
     <MESSAGE value="Test Fizz red" />
     <MESSAGE value="Test Fizz green" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Fizz green" />
+    <MESSAGE value="Test Fizz refactor" />
+    <MESSAGE value="Test Buzz red" />
+    <MESSAGE value="Test Buzz green" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Buzz green" />
   </component>
 </project>
