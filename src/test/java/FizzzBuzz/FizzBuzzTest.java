@@ -9,7 +9,7 @@ public class FizzBuzzTest {
 
 
     @Test
-    void testFizzBuzzNoChange() {
+    public void testFizzBuzzNoChange() {
 
         assertThat(FizzBuzz.convert(1)).isEqualTo("1");
     }
